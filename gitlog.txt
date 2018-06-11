@@ -1,0 +1,17 @@
+commit e8c162e8f71eda3bb75b71d18a59f9096d790fa4
+Author: shas211 <shashank.gangoji@gmail.com>
+Date:   Mon Jun 11 10:29:39 2018 -0700
+
+    added gitignore
+
+commit b972de42b655d5d5e884a4f659bc0c71d6fd5c89
+Author: shas211 <shas211@gmail.com>
+Date:   Mon Mar 26 14:54:28 2018 -0700
+
+    added 2 files
+
+commit a78379c7e881ff4ae3fe37ad0f1dfb67421e314e
+Author: shas211 <shas211@gmail.com>
+Date:   Mon Mar 26 14:50:36 2018 -0700
+
+    added readme.txt
